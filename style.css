@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+}
+.color{
+    color: deeppink;
+    font-weight: normal;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5px;
+    padding-left: 2%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,deeppink,tomato);
+    padding: 8px 12px;
+    color: white;
+    border-radius: 5px;
+}
+.header-bg{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    height: 800px;
+    
+}
+section{
+    height: 500px;
+}
+.biography-bg{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    height: 800px;
+}
+    
+.long{
+    height: 300px;
+    
+}
+.long{
+    text-align: center;
+}
+.second-width img{
+    float: left;
+    width: 30%;
+    height: 30%;
+    margin: 10px;
+    
+}
+    
+
